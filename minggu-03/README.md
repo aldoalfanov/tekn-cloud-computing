@@ -1,4 +1,4 @@
-<h1> pembahasan listing </h1>
+<h1> pembahasan minngu-03 </h1>
 
 1. [ini pembahasan praktikum minggu-03](penjelasanpraktikum.md)
 
